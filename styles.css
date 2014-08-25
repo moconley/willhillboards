@@ -176,9 +176,12 @@ body {
 .container .odds .mainOdds .oddsLine .eventDate {
   width: 8%;
   margin-left: 40px !important;
+  text-align: right;
+  padding-right: 10px;
 }
 .container .odds .mainOdds .oddsLine .eventID {
   width: 6%;
+  text-align: center;
 }
 .container .odds .mainOdds .oddsLine .eventTeams {
   width: 12%;
